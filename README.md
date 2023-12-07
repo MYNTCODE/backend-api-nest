@@ -1,4 +1,4 @@
-# Build REST API in NestJs practices | MYNTCODE
+# Build CRUD API in NestJs practices | MYNTCODE
 
 ## Description
 
